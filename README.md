@@ -1,6 +1,7 @@
 Este proyecto contiene un simulador con interfaz gráfica (Tkinter) que permite probar diferentes algoritmos de planificación de CPU mientras se tiene en cuenta la gestión de memoria por páginas. Su objetivo es ayudar a visualizar cómo un Sistema Operativo toma decisiones sobre qué proceso ejecutar, cuándo admitirlo en memoria y cómo repartir los tiempos de CPU.
 
 ¿Para qué sirve este proyecto?
+
 Sirve como herramienta didáctica para entender cómo funciona la planificación de procesos en un sistema operativo real.
 Permite ver, paso a paso, cómo influyen factores como:
 
